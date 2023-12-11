@@ -74,20 +74,13 @@ https://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV",探索频道
 http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV",求索纪录高清
-http://yzfvip.top:9106/udp/239.77.0.21:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV",求索生活高清
-http://yzfvip.top:9106/udp/239.77.0.153:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV",凤凰资讯
 http://113.117.74.18:8081/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV",五星体育
 https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV",劲爆体育
 https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV",高尔夫
-http://yzfvip.top:9106/udp/239.253.43.12:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV",CHC高清电影
-http://yzfvip.top:9106/udp/239.77.0.27:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻",BBC America
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻",RT News
@@ -136,8 +129,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="测试",美·红牛运动
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="测试",番薯
-http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 group-title="测试",ABC新闻
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="测试",NewsmaxTV
