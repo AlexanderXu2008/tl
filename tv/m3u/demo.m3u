@@ -89,6 +89,8 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻",寰宇新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="斗鱼",斗鱼看世界
+http://epg.112114.xyz/douyu/648814
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼电影1
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="斗鱼",斗鱼电影2
@@ -103,10 +105,24 @@ http://epg.112114.xyz/douyu/52787
 http://epg.112114.xyz/douyu/36337
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="斗鱼",斗鱼电影7
 http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="斗鱼",斗鱼电影8
+http://epg.112114.xyz/douyu/9651304
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼电影9
 http://epg.112114.xyz/douyu/323876
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼电影10
 http://epg.112114.xyz/douyu/263824
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼电影11
+http://epg.112114.xyz/douyu/96577
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼华语电影12
+http://epg.112114.xyz/douyu/122402
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼华语电影13
+http://epg.112114.xyz/douyu/9292492
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼华语电影14
+http://epg.112114.xyz/douyu/2516864
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼电影15
+http://epg.112114.xyz/douyu/8945323
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼电影16
+http://epg.112114.xyz/douyu/252802
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",欧美大片1
 http://epg.112114.xyz/douyu/20415
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",欧美大片2
