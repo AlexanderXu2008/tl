@@ -90,14 +90,14 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻",寰宇新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼华语电影12
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼华语电影
 http://epg.112114.xyz/douyu/122402
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼华语电影13
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼华语电影2
 http://epg.112114.xyz/douyu/9292492
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼华语电影14
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼华语电影3
 http://epg.112114.xyz/douyu/2516864
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="斗鱼",斗鱼看世界
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="斗鱼",猫步走世界
 http://epg.112114.xyz/douyu/648814
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼",斗鱼电影1
@@ -112,7 +112,7 @@ http://epg.112114.xyz/douyu/747764
 http://epg.112114.xyz/douyu/52787
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="斗鱼",斗鱼电影6
 http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="斗鱼",斗鱼电影7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="斗鱼",哈利波特
 http://epg.112114.xyz/douyu/8814650
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="斗鱼",斗鱼电影8
 http://epg.112114.xyz/douyu/9651304
@@ -123,10 +123,20 @@ http://epg.112114.xyz/douyu/263824
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼电影11
 http://epg.112114.xyz/douyu/96577
 
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼电影15
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",权力的游戏
 http://epg.112114.xyz/douyu/8945323
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼电影16
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼电影12
 http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼电影13
+http://epg.112114.xyz/douyu/648814
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼电影14
+http://epg.112114.xyz/douyu/4360438
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼装机
+http://epg.112114.xyz/douyu/6173973
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼历史
+http://epg.112114.xyz/douyu/9385288
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼宇宙
+http://epg.112114.xyz/douyu/9606719
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",欧美大片1
 http://epg.112114.xyz/douyu/20415
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",欧美大片2
@@ -141,6 +151,9 @@ https://epg.112114.eu.org/huya/330679
 https://epg.112114.eu.org/huya/390653
 #EXTINF:-1 tvg-id="虎牙" tvg-logo="" group-title="虎牙",小锦儿
 https://epg.112114.eu.org/huya/813749
+
+
+
 #EXTINF:-1 group-title="美国Local听力磨耳朵",PBS World Channel | HD
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:-1 group-title="测试",美·NASA 1
