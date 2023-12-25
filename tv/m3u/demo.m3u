@@ -134,13 +134,13 @@ http://epg.112114.xyz/douyu/2793084
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",欧美大片3
 http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 tvg-id="虎牙" tvg-logo="" group-title="虎牙",陈小春韦小宝
-http://43.128.40.42:198/虎牙直播/huya.php?id=23865080
+https://epg.112114.eu.org/huya/23865080
 #EXTINF:-1 tvg-id="虎牙" tvg-logo="" group-title="虎牙",怀逝
-http://43.128.40.42:198/虎牙直播/huya.php?id=330679
+https://epg.112114.eu.org/huya/330679
 #EXTINF:-1 tvg-id="虎牙" tvg-logo="" group-title="虎牙",一诺台球
-http://43.128.40.42:198/虎牙直播/huya.php?id=390653
+https://epg.112114.eu.org/huya/390653
 #EXTINF:-1 tvg-id="虎牙" tvg-logo="" group-title="虎牙",小锦儿
-http://43.128.40.42:198/虎牙直播/huya.php?id=813749
+https://epg.112114.eu.org/huya/813749
 #EXTINF:-1 group-title="美国Local听力磨耳朵",PBS World Channel | HD
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:-1 group-title="测试",美·NASA 1
