@@ -132,7 +132,7 @@ http://epg.112114.xyz/douyu/9385288
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",斗鱼宇宙
 http://epg.112114.xyz/douyu/9606719
 #EXTINF:-1 tvg-id="虎牙" tvg-logo="" group-title="直播",陈小春韦小宝
-https://epg.112114.eu.org/huya/23865080
+https://hw.flv.huya.com/src/1199563459172-1199563459172-5444230055406338048-2399127041800-10057-A-0-1.flv?wsSecret=55361869e56b4c450b0153cbf0b1dc52&wsTime=658bea48&seqid=2903187573801&ctype=huya_live&ver=1&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,&ratio=2000&dMod=mseh-1&sdkPcdn=1_1&u=1202248890696&t=100&sv=2312260321&sdk_sid=1703668297187
 #EXTINF:-1 tvg-id="虎牙" tvg-logo="" group-title="直播",怀逝
 https://epg.112114.eu.org/huya/330679
 #EXTINF:-1 tvg-id="虎牙" tvg-logo="" group-title="直播",一诺台球
