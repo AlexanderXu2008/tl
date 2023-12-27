@@ -122,15 +122,15 @@ http://epg.112114.xyz/douyu/2793084
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",欧美大片3
 http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",斗鱼水冷
-http://epg.112114.xyz/douyu/1089406
+https://hlsh5p2.douyucdn2.cn/dyliveflv3/1089406ro1Rdp6nL.xs?wsAuth=fcbbc21472d6551f2e9916e6befbee5a&token=web-h5-0-1089406-de785c343218529f1f169af778a5473758c0883f2edbb901&logo=0&expire=0&did=5e2122a9615a3100fddf7ce600021701&ver=Douyu_222082905&pt=2&st=3&sid=373486959&mcid2=0&origin=tct&mix=0&isp=&playid=1703668487914-6157571141&uuid=32597ad5-9be7-4898-90a9-6ac7a8c18e26&txSecret=fd435799bd7fc08da74cf0e243438b89&txTime=658bed60
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",斗鱼装机
-http://epg.112114.xyz/douyu/652458
+https://hlsh5p2.douyucdn2.cn/dyliveflv3a/652458r3Pwkz2y3K.xs?wsAuth=dd0b33730cff402ec6721177f28ed908&token=web-h5-0-652458-75b654d3e198eecb03c6b29957044578b8efdbcd48a66a56&logo=0&expire=0&did=5e2122a9615a3100fddf7ce600021701&ver=Douyu_222082905&pt=2&st=0&sid=376148614&mcid2=0&origin=tct&mix=0&isp=&playid=1703669319069-4031436101&uuid=32597ad5-9be7-4898-90a9-6ac7a8c18e26&txSecret=a71b0d488914c71e9bde9387d19945d3&txTime=658bf09f
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",斗鱼学习
-http://epg.112114.xyz/douyu/6173973
+https://hlsh5p2.douyucdn2.cn/dyliveflv3/6173973rAAAlNbwU.xs?wsAuth=eb28009da141d2a0dfd2fe0a30b28a4b&token=web-h5-0-6173973-a20f2e77df27ff788eb574b3d7b28c28012fbf72304b3965&logo=0&expire=0&did=5e2122a9615a3100fddf7ce600021701&ver=Douyu_222082905&pt=2&st=0&sid=373808568&mcid2=0&origin=tct&mix=0&isp=&playid=1703668819176-8376457231&uuid=32597ad5-9be7-4898-90a9-6ac7a8c18e26&txSecret=75b4171f3e0225c938c0717a2cc0c96b&txTime=658beeab
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",斗鱼历史
-http://epg.112114.xyz/douyu/9385288
+https://hlsh5p2.douyucdn2.cn/dyliveflv3/9385288rEtWrnsI4.xs?wsAuth=601e441227d9b22b88f630b36c2f07c6&token=web-h5-0-9385288-f2c8196da74e18249911d1161ef0ba47245f708692781874&logo=0&expire=0&did=5e2122a9615a3100fddf7ce600021701&ver=Douyu_222082905&pt=2&st=3&sid=375515778&mcid2=0&origin=tct&mix=0&isp=&playid=1703668889020-5024464191&uuid=32597ad5-9be7-4898-90a9-6ac7a8c18e26&txSecret=84968a8903c0a1a3b94228ef919c8b0c&txTime=658beef1
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",斗鱼宇宙
-http://epg.112114.xyz/douyu/9606719
+https://hlsh5p2.douyucdn2.cn/dyliveflv3a/9606719rKHKd6dIH.xs?wsAuth=1a38d38b903174ef217eb043db339199&token=web-h5-0-9606719-0ca48d238491c4981708bf8272b75677fab1d3a26bd656b5&logo=0&expire=0&did=5e2122a9615a3100fddf7ce600021701&ver=Douyu_222082905&pt=2&st=3&sid=372425604&mcid2=0&origin=tct&mix=0&isp=&playid=1703668933897-4803567271&uuid=32597ad5-9be7-4898-90a9-6ac7a8c18e26&txSecret=570c8ce1f2d1763805e21fa3bc919344&txTime=658bef1e
 #EXTINF:-1 tvg-id="虎牙" tvg-logo="" group-title="直播",陈小春韦小宝
 https://hw.flv.huya.com/src/1199563459172-1199563459172-5444230055406338048-2399127041800-10057-A-0-1.flv?wsSecret=55361869e56b4c450b0153cbf0b1dc52&wsTime=658bea48&seqid=2903187573801&ctype=huya_live&ver=1&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,&ratio=2000&dMod=mseh-1&sdkPcdn=1_1&u=1202248890696&t=100&sv=2312260321&sdk_sid=1703668297187
 #EXTINF:-1 tvg-id="虎牙" tvg-logo="" group-title="直播",怀逝
@@ -184,6 +184,36 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-202153516
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="IPV6",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+
+#EXTINF:-1 group-title="•游戏赛事",穿越火线
+http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="•游戏赛事",和平精英·手游
+http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="•游戏赛事",梦幻西游·手游
+http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="•游戏赛事",跑跑卡丁车
+http://tc-tct.douyucdn2.cn/dyliveflv1/7722576rWHyhVf6Z_2000.flv?wsAuth=05a690d94290609839e7c868f44fbc3d&token=cpn-androidmpro-0-7722576-6b878e1c279c4ee5468d3b8183a8170664764100093885bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="•游戏赛事",CSGO
+http://tc-tct.douyucdn2.cn/dyliveflv1/601514rYyuBBDiJK_2000.flv?wsAuth=392e2081de888c961c5b04e1cc969e2a&token=cpn-androidmpro-0-601514-ef59ba1cfb089365430a29ba0e9fabff647f749d2b368bd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="•游戏赛事",JJ斗地主
+http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 group-title="•游戏赛事",云顶之弈
+http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.flv?wsAuth=ce3c0d32c960ce39c10717b795f7ddf9&token=cpn-androidmpro-0-522423-99737a9b5bf363c27f62ed65c0f1025bd1ccd3a301de7e93&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="•游戏赛事",QQ飞车·手游
+http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.flv?wsAuth=0654cc930e81f0d2b58264196ded38af&token=cpn-androidmpro-0-5040227-432528579fe947129e217c8f3c39d0a94c81c1426c347bfb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 group-title="•游戏赛事",狼人杀
+http://tc-tct.douyucdn2.cn/dyliveflv1/4615959rUFUtiJ3v.flv?wsAuth=7971ae0019a9ad2822153b7370372e8c&token=cpn-androidmpro-0-4615959-c88b2c2692ce476579452cdc62babd37285751f91f149297&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="•游戏赛事",CF·手游
+http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571126613feca6067da321aaf2df2&token=cpn-androidmpro-0-868191-846aacab1859214c037e4d0c263121580403540feea39901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="•游戏赛事",王者荣耀
+http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 group-title="•游戏赛事",第五人格
+http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.flv?wsAuth=50ba16bb9998ec281101f2a5d8975be6&token=cpn-androidmpro-0-3226194-1c055b38aa29e2877292a9ffa392a948c894567c5e4b79ff&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 group-title="•游戏赛事",跑跑卡丁车·手游
+http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1,group-title="•游戏赛事",LOL 全球总决赛「S13」
+https://tv.iill.top//bilibili/10
+
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="IPV6",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="IPV6",CHC家庭影院
