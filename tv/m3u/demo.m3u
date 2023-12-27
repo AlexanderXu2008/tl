@@ -141,6 +141,20 @@ https://epg.112114.eu.org/huya/390653
 https://epg.112114.eu.org/huya/813749
 
 
+#EXTINF:-1 tvg-id="斗鱼1" tvg-logo="" group-title="直播",斗鱼水冷
+http://tc-tct.douyucdn2.cn/dyliveflv1/1089406ro1Rdp6nL.xs?wsAuth=14d04141a9545ffc0acf95f7e5104591&token=web-h5-0-1089406-de785c343218529fd7d47ea2b3723072d086e767a6de3c61&logo=0&playid=1703670869051-9343292881&uuid=32597ad5-9be7-4898-90a9-6ac7a8c18e26&txSecret=2204e1bcbe564d888ff8a1001bc53faa
+#EXTINF:-1 tvg-id="斗鱼1" tvg-logo="" group-title="直播",斗鱼装机
+http://tc-tct.douyucdn2.cn/dyliveflv1/652458r3Pwkz2y3K.xs?wsAuth=14d04141a9545ffc0acf95f7e5104591&token=web-h5-0-1089406-de785c343218529fd7d47ea2b3723072d086e767a6de3c61&logo=0&playid=1703670869051-9343292881&uuid=32597ad5-9be7-4898-90a9-6ac7a8c18e26&txSecret=2204e1bcbe564d888ff8a1001bc53faa
+#EXTINF:-1 tvg-id="斗鱼1" tvg-logo="" group-title="直播",斗鱼学习
+http://tc-tct.douyucdn2.cn/dyliveflv1/6173973rAAAlNbwU.xs?wsAuth=14d04141a9545ffc0acf95f7e5104591&token=web-h5-0-1089406-de785c343218529fd7d47ea2b3723072d086e767a6de3c61&logo=0&playid=1703670869051-9343292881&uuid=32597ad5-9be7-4898-90a9-6ac7a8c18e26&txSecret=2204e1bcbe564d888ff8a1001bc53faa
+#EXTINF:-1 tvg-id="斗鱼1" tvg-logo="" group-title="直播",斗鱼历史
+http://tc-tct.douyucdn2.cn/dyliveflv1/9385288rEtWrnsI4.xs?wsAuth=14d04141a9545ffc0acf95f7e5104591&token=web-h5-0-1089406-de785c343218529fd7d47ea2b3723072d086e767a6de3c61&logo=0&playid=1703670869051-9343292881&uuid=32597ad5-9be7-4898-90a9-6ac7a8c18e26&txSecret=2204e1bcbe564d888ff8a1001bc53faa
+#EXTINF:-1 tvg-id="斗鱼1" tvg-logo="" group-title="直播",斗鱼宇宙
+http://tc-tct.douyucdn2.cn/dyliveflv1/9606719rKHKd6dIH.xs?wsAuth=14d04141a9545ffc0acf95f7e5104591&token=web-h5-0-1089406-de785c343218529fd7d47ea2b3723072d086e767a6de3c61&logo=0&playid=1703670869051-9343292881&uuid=32597ad5-9be7-4898-90a9-6ac7a8c18e26&txSecret=2204e1bcbe564d888ff8a1001bc53faa
+
+#EXTINF:-1 tvg-id="虎牙1" tvg-logo="" group-title="直播",陈小春韦小宝
+https://hw.flv.huya.com/src/1199563459172-1199563459172-5444230055406338048-2399127041800-10057-A-0-1.flv?wsSecret=55361869e56b4c450b0153cbf0b1dc52&wsTime=658bea48&seqid=2903187573801&ctype=huya_live&ver=1&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,&ratio=2000&dMod=mseh-1&sdkPcdn=1_1&u=1202248890696&t=100&sv=2312260321&sdk_sid=1703668297187
+
 
 #EXTINF:-1 group-title="美国Local听力磨耳朵",PBS World Channel | HD
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
