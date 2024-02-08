@@ -75,64 +75,64 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻",NewsNOW
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",斗鱼华语电影
-http://epg.112114.xyz/douyu/122402
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",斗鱼华语电影2
-http://epg.112114.xyz/douyu/9292492
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",斗鱼华语电影3
-http://epg.112114.xyz/douyu/2516864
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",斗鱼华语电影
+http://epg.112114.eu.org/douyu/122402
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",斗鱼华语电影2
+http://epg.112114.eu.org/douyu/9292492
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",斗鱼华语电影3
+http://epg.112114.eu.org/douyu/2516864
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",猫步走世界
-http://epg.112114.xyz/douyu/648814
+http://epg.112114.eu.org/douyu/648814
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="直播",斗鱼电影1
-http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",斗鱼电影2
-http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",斗鱼电影3
-http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",斗鱼电影4
-http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",斗鱼电影5
-http://epg.112114.xyz/douyu/52787
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",斗鱼电影6
-http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",哈利波特
-http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",斗鱼电影8
-http://epg.112114.xyz/douyu/9651304
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",斗鱼电影9
-http://epg.112114.xyz/douyu/323876
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",斗鱼电影10
-http://epg.112114.xyz/douyu/263824
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",斗鱼电影11
-http://epg.112114.xyz/douyu/96577
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",斗鱼电影1
+http://epg.112114.eu.org/douyu/4332
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="电影",斗鱼电影2
+http://epg.112114.eu.org/douyu/6140589
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="电影",斗鱼电影3
+http://epg.112114.eu.org/douyu/8770422
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="电影",斗鱼电影4
+http://epg.112114.eu.org/douyu/747764
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="电影",斗鱼电影5
+http://epg.112114.eu.org/douyu/52787
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="电影",斗鱼电影6
+http://epg.112114.eu.org/douyu/36337
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="电影",哈利波特
+http://epg.112114.eu.org/douyu/8814650
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="电影",斗鱼电影8
+http://epg.112114.eu.org/douyu/9651304
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",斗鱼电影9
+http://epg.112114.eu.org/douyu/323876
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",斗鱼电影10
+http://epg.112114.eu.org/douyu/263824
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",斗鱼电影11
+http://epg.112114.eu.org/douyu/96577
 
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",权力的游戏
-http://epg.112114.xyz/douyu/8945323
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",斗鱼电影12
-http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",斗鱼电影13
-http://epg.112114.xyz/douyu/4360438
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",权力的游戏
+http://epg.112114.eu.org/douyu/8945323
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",斗鱼电影12
+http://epg.112114.eu.org/douyu/252802
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",斗鱼电影13
+http://epg.112114.eu.org/douyu/4360438
 
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",欧美大片1
-http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",欧美大片2
-http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="直播",欧美大片3
-http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",欧美大片1
+http://epg.112114.eu.org/douyu/20415
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",欧美大片2
+http://epg.112114.eu.org/douyu/2793084
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",欧美大片3
+http://epg.112114.eu.org/douyu/9249162
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼水冷
-http://epg.112114.xyz/douyu/1089406
+http://epg.112114.eu.org/douyu/1089406
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼装机
-http://epg.112114.xyz/douyu/652458
+http://epg.112114.eu.org/douyu/652458
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼学习
-http://epg.112114.xyz/douyu/6173973
+http://epg.112114.eu.org/douyu/6173973
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼历史
-http://epg.112114.xyz/douyu/9385288
+http://epg.112114.eu.org/douyu/9385288
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼宇宙
-http://epg.112114.xyz/douyu/9606719
+http://epg.112114.eu.org/douyu/9606719
 #EXTINF:-1 tvg-id="虎牙" tvg-logo="" group-title="直播",陈小春韦小宝
-https://epg.112114.xyz/huya/23865080
+https://epg.112114.eu.org/huya/23865080
 #EXTINF:-1 tvg-id="虎牙" tvg-logo="" group-title="直播",怀逝
 https://epg.112114.eu.org/huya/330679
 #EXTINF:-1 tvg-id="虎牙" tvg-logo="" group-title="直播",一诺台球
@@ -140,20 +140,6 @@ https://epg.112114.eu.org/huya/390653
 #EXTINF:-1 tvg-id="虎牙" tvg-logo="" group-title="直播",小锦儿
 https://epg.112114.eu.org/huya/813749
 
-
-#EXTINF:-1 tvg-id="斗鱼1" tvg-logo="" group-title="直播",斗鱼水冷
-http://tc-tct.douyucdn2.cn/dyliveflv1/1089406ro1Rdp6nL.xs?wsAuth=14d04141a9545ffc0acf95f7e5104591&token=web-h5-0-1089406-de785c343218529fd7d47ea2b3723072d086e767a6de3c61&logo=0&playid=1703670869051-9343292881&uuid=32597ad5-9be7-4898-90a9-6ac7a8c18e26&txSecret=2204e1bcbe564d888ff8a1001bc53faa
-#EXTINF:-1 tvg-id="斗鱼1" tvg-logo="" group-title="直播",斗鱼装机
-http://tc-tct.douyucdn2.cn/dyliveflv1/652458r3Pwkz2y3K.xs?wsAuth=14d04141a9545ffc0acf95f7e5104591&token=web-h5-0-1089406-de785c343218529fd7d47ea2b3723072d086e767a6de3c61&logo=0&playid=1703670869051-9343292881&uuid=32597ad5-9be7-4898-90a9-6ac7a8c18e26&txSecret=2204e1bcbe564d888ff8a1001bc53faa
-#EXTINF:-1 tvg-id="斗鱼1" tvg-logo="" group-title="直播",斗鱼学习
-http://tc-tct.douyucdn2.cn/dyliveflv1/6173973rAAAlNbwU.xs?wsAuth=14d04141a9545ffc0acf95f7e5104591&token=web-h5-0-1089406-de785c343218529fd7d47ea2b3723072d086e767a6de3c61&logo=0&playid=1703670869051-9343292881&uuid=32597ad5-9be7-4898-90a9-6ac7a8c18e26&txSecret=2204e1bcbe564d888ff8a1001bc53faa
-#EXTINF:-1 tvg-id="斗鱼1" tvg-logo="" group-title="直播",斗鱼历史
-http://tc-tct.douyucdn2.cn/dyliveflv1/9385288rEtWrnsI4.xs?wsAuth=14d04141a9545ffc0acf95f7e5104591&token=web-h5-0-1089406-de785c343218529fd7d47ea2b3723072d086e767a6de3c61&logo=0&playid=1703670869051-9343292881&uuid=32597ad5-9be7-4898-90a9-6ac7a8c18e26&txSecret=2204e1bcbe564d888ff8a1001bc53faa
-#EXTINF:-1 tvg-id="斗鱼1" tvg-logo="" group-title="直播",斗鱼宇宙
-http://tc-tct.douyucdn2.cn/dyliveflv1/9606719rKHKd6dIH.xs?wsAuth=14d04141a9545ffc0acf95f7e5104591&token=web-h5-0-1089406-de785c343218529fd7d47ea2b3723072d086e767a6de3c61&logo=0&playid=1703670869051-9343292881&uuid=32597ad5-9be7-4898-90a9-6ac7a8c18e26&txSecret=2204e1bcbe564d888ff8a1001bc53faa
-
-#EXTINF:-1 tvg-id="虎牙1" tvg-logo="" group-title="直播",陈小春韦小宝
-https://hw.flv.huya.com/src/1199563459172-1199563459172-5444230055406338048-2399127041800-10057-A-0-1.flv?wsSecret=55361869e56b4c450b0153cbf0b1dc52&wsTime=658bea48&seqid=2903187573801&ctype=huya_live&ver=1&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,&ratio=2000&dMod=mseh-1&sdkPcdn=1_1&u=1202248890696&t=100&sv=2312260321&sdk_sid=1703668297187
 
 
 #EXTINF:-1 group-title="美国Local听力磨耳朵",PBS World Channel | HD
