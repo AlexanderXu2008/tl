@@ -137,7 +137,8 @@ https://epg.112114.eu.org/huya/330679
 https://epg.112114.eu.org/huya/390653
 #EXTINF:-1 tvg-id="虎牙" tvg-logo="" group-title="直播",小锦儿
 https://epg.112114.eu.org/huya/813749
-
+#EXTINF:-1 tvg-id="虎牙" tvg-logo="" group-title="直播",陈小春韦小宝
+http://al.flv.huya.com/src/1199563459172-1199563459172-5444230055406338048-2399127041800-10057-A-0-1.flv?wsSecret=cedb5f883abdf0778d107953e91849aa&wsTime=65c65157&ctype=tars_mobile&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500%2C264_2000%2C&t=103&ver=1&sv=2110211124&seqid=3174493243162&uid=1467083875737&uuid=548841611
 
 
 #EXTINF:-1 group-title="美国Local听力磨耳朵",PBS World Channel | HD
