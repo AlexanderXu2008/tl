@@ -121,9 +121,40 @@ http://live.iill.top/douyu.php?id=6173973
 http://live.iill.top/douyu.php?id=9385288
 #EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼宇宙
 http://live.iill.top/douyu.php?id=9606719
-
-
-
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",鹿鼎记
+http://live.iill.top/huya.php?id=23865080
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",怀逝
+http://live.iill.top/huya.php?id=330679
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",阿斗归来了
+http://live.iill.top/huya.php?id=13303478
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",口袋
+http://live.iill.top/huya.php?id=51106
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",扁豆看电影
+http://live.iill.top/huya.php?id=21059623
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",斌哥漫说
+http://live.iill.top/huya.php?id=21059621
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",阿汤哥
+http://live.iill.top/huya.php?id=21059585
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",好尸游戏
+http://live.iill.top/huya.php?id=22830328
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",红烧狮子头
+http://live.iill.top/huya.php?id=11601978
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",划线百佳
+http://live.iill.top/huya.php?id=392168
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",诸葛亮
+http://live.iill.top/huya.php?id=861098
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",小锦儿
+http://live.iill.top/huya.php?id=813749
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",阿珂
+http://live.iill.top/huya.php?id=569528
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",念青
+http://live.iill.top/huya.php?id=825912
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",一诺
+http://live.iill.top/huya.php?id=390653
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",北慕
+http://live.iill.top/huya.php?id=31520
+#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",孤寂
+http://live.iill.top/huya.php?id=207362
 
 #EXTINF:-1 group-title="国外",美·NASA 1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
