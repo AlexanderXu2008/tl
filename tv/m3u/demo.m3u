@@ -57,11 +57,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV",五星体育
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 ##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV",劲爆体育
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
+https://itv.lat/hls?channel=lqhxjcHDH265&token=567bcc7f346c8ce22e1893cee0f43a3a
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方",BTV纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻",BBC America
-https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻",FOXNewsNOW
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
@@ -170,9 +170,9 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 group-title="国外",InsightTV
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.net
+https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 group-title="国际",BBC
-https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",NBC News Now
@@ -362,24 +362,25 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
 
-#EXTINF:-1 group-title="国际",CNN
-https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="国际",BBC
-https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
+#EXTINF:-1 group-title="国际",CNN
+https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",NBC 
-https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
+https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
 #EXTINF:-1 group-title="国际",FOX
-https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
+https://jmp2.uk/SamsungTVPlus/USBA300024TN.m3u8
 #EXTINF:-1 group-title="国际",VOA 
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 #EXTINF:-1 group-title="国际",SkyNews
-https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 group-title="国际",WionNews
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="国际",Scripps News
-https://i.mjh.nz/SamsungTVPlus/USBD3000073N.m3u8
+https://jmp2.uk/SamsungTVPlus/USBD3000073N.m3u8
 #EXTINF:-1 group-title="国际",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="国际",Newsmax
@@ -387,11 +388,9 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="国际",CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 group-title="国际",GB News
-https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
+https://jmp2.uk/SamsungTVPlus/GBBB1600008R3.m3u8
 #EXTINF:-1 group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",Dubai One
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="国际",Africa News 
 https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Al Jazeera
@@ -399,13 +398,11 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="国际",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 group-title="国际",Bloomberg Originals
-https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
+https://jmp2.uk/SamsungTVPlus/GBBC900012J9.m3u8
 #EXTINF:-1 group-title="国际",ION Plus
-https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
-#EXTINF:-1 group-title="国际",ION
-https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
+https://jmp2.uk/SamsungTVPlus/USBD300003LK.m3u8
 #EXTINF:-1 group-title="国际",Vevo Pop
-https://i.mjh.nz/SamsungTVPlus/GBBC19000017V.m3u8
+https://jmp2.uk/SamsungTVPlus/GBBC19000017V.m3u8
 #EXTINF:-1 group-title="国际",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="国际",Fashion TV
@@ -415,13 +412,15 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="国际",Xplore
-https://i.mjh.nz/SamsungTVPlus/USBC2100008DP.m3u8
+https://jmp2.uk/SamsungTVPlus/USBC2100008DP.m3u8
 #EXTINF:-1 group-title="国际",Clarity 4K
-https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
+https://jmp2.uk/SamsungTVPlus/USBA3800005NI.m3u8
 #EXTINF:-1 group-title="国际",FIFA+
-https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
+https://jmp2.uk/SamsungTVPlus/ATBA3300007PT.m3u8
 #EXTINF:-1 group-title="国际",Stadium
-https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
+https://jmp2.uk/SamsungTVPlus/USAJ3504705A.m3u8
+#EXTINF:-1 group-title="国际",NBC Sport
+https://jmp2.uk/SamsungTVPlus/USBD420002446.m3u8
 #EXTINF:-1 group-title="国际",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="国际",SportsGrid
@@ -429,11 +428,11 @@ https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Pop
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 #EXTINF:-1 group-title="国际",Tastemade
-https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
+https://jmp2.uk/SamsungTVPlus/GBBB38000093D.m3u8
 #EXTINF:-1 group-title="国际",MovieSphere
-https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+https://jmp2.uk/SamsungTVPlus/USBD17000117B.m3u8
 #EXTINF:-1 group-title="国际",The Lego Channel
-https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
+https://jmp2.uk/SamsungTVPlus/GBBC4300005AL.m3u8
 #EXTINF:-1 group-title="国际",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",Taiwan Plus
@@ -464,10 +463,6 @@ https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="国际",Food 
 https://food-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",New KPOP 
-https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Billiards TV 
-https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",La La Life 
 https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8
 #EXTINF:-1 group-title="国际",Rakuten Viki 
@@ -482,3 +477,9 @@ https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
 https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Global Fashion Channel 
 https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Comedy Hub 
+https://jmp2.uk/SamsungTVPlus/GBBD25000038Y.m3u8
+#EXTINF:-1 group-title="国际",New KPOP 
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Billiards TV 
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
