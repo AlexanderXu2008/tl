@@ -67,8 +67,9 @@ function checkHandles() {
 
 	for(let hidEndpoints = 0; hidEndpoints < handles.length; hidEndpoints++) {
 		const hidEndpoint = handles[hidEndpoints];
-
+        
 		if(hidEndpoint.interface === 2 && hidEndpoint.usage === 1 && hidEndpoint.usage_page === 0xff02) {
+            device.log("checkHandles == WE HAZ A hidEndpoint!" +hidEndpoint.usage_page);
 			device.log("WE HAZ A DONGLE!");
 			isOmniDongle = true;
 		}
@@ -83,13 +84,15 @@ function checkConnectivity() {
 	device.pause(10);
 
 	const deviceAlivePacket = device.read([0x02, 0x12, 0x03], 64);
-
 	if(deviceAlivePacket[5] === 0) {
 		device.log("Wired device, forcing connected status to true.");
 		isConnected = true;
 	} else if (deviceAlivePacket[5] === 1) {
 		device.log("Wireless device connected, enabling data transfer.");
 		isConnected = true;
+    } else if (deviceAlivePacket[5] === 255) {
+        device.log("Wireless device connected, enabling data transfer.");
+        isConnected = true;
 	} else {
 		device.log(`No device Connected (in theory). Connection Status Byte: ${deviceAlivePacket[5]}`);
 	}
@@ -98,13 +101,11 @@ function checkConnectivity() {
 
 	const model = String.fromCharCode(...modelPacket);
 	device.log(`Possible Model return: ${model}`);
-	device.log(`Model from Model String: ${modelDict[model] ?? "We Haz No Model For this"}`);
+	device.log(`checkConnectivity === Model from Model String: ${modelDict[model] ?? "We Haz No Model For this"}`);
 	
 	ASUS.setDeviceProductId(device.productId());
 	ASUS.setDeviceName(modelDict[model]);
-
 	const DeviceProperties = ASUS.getDeviceProperties(modelDict[model]);
-
 	ASUS.setDeviceEndpoint(DeviceProperties.Endpoint);
 	ASUS.setLeds(DeviceProperties.vLeds);
 	ASUS.setLedNames(DeviceProperties.vLedNames);
@@ -131,6 +132,7 @@ function checkConnectivity() {
 const modelDict = {
 	"A22114900551" : "ROG Azoth",
 	"A23114802907" : "ROG Azoth QWERTZ",
+	"A24041709783" : "ROG Harpe Ace AIM LAB Edition",
 	"024092233464" : "ROG Azoth Extreme",
 	"R2MPGDD01967s" : "ROG Azoth QWERTY",
 	"D23120500771" : "ROG Strix Scope II 96"
@@ -150,7 +152,7 @@ function readInputs() {
 			}
 
 			//2 is header? 5 0 1 might be a status or smth?
-			device.log(returnPacket);
+			device.log("readInputs==="+returnPacket);
 			//We do not care about 114 either smh or 145.
 			//though 114, 0 is bye bye.
 			//113 is not useful ***YET***
@@ -167,7 +169,7 @@ function dongleJunk() {
 	//Hello there dongle
 	device.log(`Random Dongle Packets Go!`);
 	gimmePacketWithResponse([0x01, 0xa0]); //1 0 b0 1a 02 04, could represent transaction id's, paired device count, etc.
-
+   // device.log(`dongleJunk: ${gimmePacketWithResponse([0x01, 0xa0])}`);
 	const serialReturn = gimmePacketWithResponse([0x01, 0xa1]).slice(5, 18); //Returns serial and then 0x73 which is S char.
 	const serialString = String.fromCharCode(...serialReturn);
 	device.log(`USB Serial String: ${serialString}`);
@@ -184,7 +186,6 @@ function gimmePacketWithResponse(packet) {
 	device.pause(10);
 
 	const returnPacket = device.read(packet, 64);
-	device.log(returnPacket);
 
 	return returnPacket;
 }
@@ -255,8 +256,8 @@ export class ASUS_Keyboard_Protocol {
 			this.modernFetchBatteryLevel();
 		}
 
-		device.log(`Device model found: ` + this.getDeviceName());
-		device.setName("ASUS " + this.getDeviceName());
+		device.log(`InitializeASUS === Device model found: ` + this.getDeviceName());
+		device.setName("ASUS=== " + this.getDeviceName());
 		device.setSize(DeviceProperties.size);
 		device.setControllableLeds(this.getLedNames(), this.getLedPositions());
 		device.setImageFromUrl(this.getDeviceImage());
@@ -268,38 +269,71 @@ export class ASUS_Keyboard_Protocol {
 		const deviceLeds = this.getLeds();
 		const deviceLedPositions = this.getLedPositions();
 		const TotalLEDs = deviceLeds.length;
+        const deviceNames= this.getDeviceName();
 		const RGBData = [];
 
 		let TotalLedCount = TotalLEDs;
 		let packetCount = 0;
 
-		for (let iIdx = 0; iIdx < TotalLEDs; iIdx++) {
-			const iPxX = deviceLedPositions[iIdx][0];
-			const iPxY = deviceLedPositions[iIdx][1];
-			let color;
+        if(deviceNames === "ROG Harpe Ace AIM LAB Edition")
+        {
+            TotalLedCount = deviceLedPositions.length;
+            for(let iIdx = 0; iIdx < deviceLedPositions.length; iIdx++) {
+                const iPxX = deviceLedPositions[iIdx][0];
+                const iPxY = deviceLedPositions[iIdx][1];
+                let color;
 
-			if(overrideColor){
-				color = hexToRgb(overrideColor);
-			}else if (LightingMode === "Forced") {
-				color = hexToRgb(forcedColor);
-			}else{
-				color = device.color(iPxX, iPxY);
-			}
+                if(overrideColor) {
+                    color = hexToRgb(overrideColor);
+                } else if (LightingMode === "Forced") {
+                    color = hexToRgb(forcedColor);
+                } else {
+                    color = device.color(iPxX, iPxY);
+                }
 
-			RGBData[iIdx * 4 + 0] = deviceLeds[iIdx];
-			RGBData[iIdx * 4 + 1] = color[0];
-			RGBData[iIdx * 4 + 2] = color[1];
-			RGBData[iIdx * 4 + 3] = color[2];
-		}
+                const iLedIdx = (iIdx * 3);
+                RGBData[iLedIdx] = color[0];
+                RGBData[iLedIdx+1] = color[1];
+                RGBData[iLedIdx+2] = color[2];
+            }
+            const packet = [0x03, 0x51, 0x29, 0xff, 0x00, 0x00];
+            packet.push(...RGBData);
+            const ledsPerPacket = isOmniDongle ? 14 :15;
+            const ledsToSend = TotalLedCount >= ledsPerPacket ? ledsPerPacket : TotalLedCount;
+             const packet1 = [isOmniDongle ? 0x03 : 0x00, 0x51, 0x29,0xff, 0x00, 0x00].concat(RGBData.splice(0, ledsToSend*4));
+            device.write(packet1, 65);
 
-		while(TotalLedCount > 0){
-			const ledsPerPacket = isOmniDongle ? 14 :15;
-			//scope 96 was being weird if I did 15. blue byte got chopped because it's not zero padded.
-			const ledsToSend = TotalLedCount >= ledsPerPacket ? ledsPerPacket : TotalLedCount;
+        }
+        else
+        {
+            for (let iIdx = 0; iIdx < TotalLEDs; iIdx++) {
+                const iPxX = deviceLedPositions[iIdx][0];
+                const iPxY = deviceLedPositions[iIdx][1];
+                let color;
 
-			device.write([isOmniDongle ? 0x02 : 0x00, 0xC0, 0x81, ledsToSend, 0x00].concat(RGBData.splice(0, ledsToSend*4)), 65);
-			TotalLedCount -= ledsToSend;
-		}
+                if(overrideColor){
+                    color = hexToRgb(overrideColor);
+                }else if (LightingMode === "Forced") {
+                    color = hexToRgb(forcedColor);
+                }else{
+                    color = device.color(iPxX, iPxY);
+                }
+
+                RGBData[iIdx * 4 + 0] = deviceLeds[iIdx];
+                RGBData[iIdx * 4 + 1] = color[0];
+                RGBData[iIdx * 4 + 2] = color[1];
+                RGBData[iIdx * 4 + 3] = color[2];
+            }
+
+            while(TotalLedCount > 0){
+                const ledsPerPacket = isOmniDongle ? 14 :15;
+                //scope 96 was being weird if I did 15. blue byte got chopped because it's not zero padded.
+                const ledsToSend = TotalLedCount >= ledsPerPacket ? ledsPerPacket : TotalLedCount;
+
+                device.write([isOmniDongle ? 0x02 : 0x00, 0xC0, 0x81, ledsToSend, 0x00].concat(RGBData.splice(0, ledsToSend*4)), 65);
+                TotalLedCount -= ledsToSend;
+            }
+        }
 	}
 
 	getDeviceBatteryStatus() {
@@ -362,6 +396,26 @@ export class deviceLibrary {
 		};
 
 		this.LEDLibrary	=	{
+            "ROG Harpe Ace AIM LAB Edition":
+			{
+				size: [3, 5],
+                vLeds:[
+					0,      24, 32, 
+					1,  17, 25, 
+					2,  18, 26, 
+					3,    19, 27, 
+					4,  12, 20,
+				],
+				vLedNames: ["Scroll Wheel"],
+				vLedPositions: [[1, 0]],
+				maxDPI: 36000,
+                //battery: true,
+				Endpoint : { "interface": 2, "usage": 0x0001, "usage_page": 0xFF01, "collection": 0x0000 },
+				//Endpoint : { "interface": 3, "usage": 0x0001, "usage_page": 0x000c, "collection": 0x0000 },
+				Protocol: "Modern",
+				//DPISupport: true,
+				image: "https://assets.signalrgb.com/devices/brands/asus/mice/harpe-aim-lab.png"
+			},
 			"TUF K3":
 			{
 				size: [22, 6],
@@ -451,7 +505,7 @@ export class deviceLibrary {
 					[0, 5], [1, 5], [2, 5],			  		[6, 5],			  				[9, 5], [10, 5], [11, 5], [12, 5], [13, 5], [14, 5], //10
 				],
 				Endpoint : { "interface": 2, "usage": 0x0001, "usage_page": 0xFF00, "collection": 0x0000 },
-				Battery: true,
+				//Battery: true,
 				image: "https://assets.signalrgb.com/devices/brands/asus/keyboards/azoth.png"
 			},
 			"ROG Azoth":
