@@ -334,7 +334,7 @@ export class deviceLibrary {
 	constructor(){
 		this.PIDLibrary	=	{
 			0x1A07: "Omni Receiver",
-			0x1ACE: "ROG Strix Scope II 96 Wireless", // Omni Receiver
+			0x1ACE: "ROG Azoth Extreme", // Omni Receiver
 			0x194B: "TUF K3",
 			0x1A83: "ROG Azoth", // Wired
 			0x1A85: "ROG Azoth",
@@ -392,6 +392,37 @@ export class deviceLibrary {
 				image: "https://assets.signalrgb.com/devices/brands/asus/keyboards/tuf-k3.png"
 			},
 			"ROG Azoth QWERTY":
+			{
+				size: [15, 6],
+				vLeds:[
+					0,  8, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96,   //13
+					1,  9, 17, 25, 33, 41, 49, 57, 65, 73, 81, 89, 97, 105,  121, //15
+					2, 10, 18, 26, 34, 42, 50, 58, 66, 74, 82, 90, 98, 107, 122, //15
+					3, 11, 19, 27, 35, 43, 51, 59, 67, 75, 83, 91, 99,       123, //14
+					4, 12, 20, 28, 36, 44, 52, 60, 68, 76, 84, 92, 100,116, 124, //15
+					5, 13, 21,             53,         85, 93, 101, 109, 117, 125, //10
+				],
+				vLedNames: [
+					"Esc", "F1", "F2", "F3", "F4", "F5", "F6", "F7", "F8", "F9", "F10", "F11", "F12",    //13
+					"^", "1",  "2", "3", "4", "5",  "6", "7", "8", "9", "0",  "ß", "`", "Backspace", "Ins", //15
+					"Tab", "Q", "W", "E", "R", "T", "Z", "U", "I", "O", "P", "Ü", "+", "ENTER", "Del", //15
+					"CapsLock", "A", "S", "D", "F", "G", "H", "J", "K", "L", "Ö", "Ä", "ISO #", "PgUp", //14
+					"Left Shift", "ISO <", "Y", "X", "C", "V", "B", "N", "M", ",", ".", "-", "Right Shift", "Up Arrow", "PgDn", //15
+					"Left Ctrl", "Left Win", "Left Alt", "Space", "Right Alt", "FN", "Right Ctrl", "Left Arrow", "Down Arrow", "Right Arrow", //10
+				],
+				vLedPositions: [
+					[0, 0], [1, 0], [2, 0], [3, 0], [4, 0], [5, 0], [6, 0], [7, 0], [8, 0], [9, 0], [10, 0], [11, 0], [12, 0],    //13
+					[0, 1], [1, 1], [2, 1], [3, 1], [4, 1], [5, 1], [6, 1], [7, 1], [8, 1], [9, 1], [10, 1], [11, 1], [12, 1], [13, 1], [14, 1],  //15
+					[0, 2], [1, 2], [2, 2], [3, 2], [4, 2], [5, 2], [6, 2], [7, 2], [8, 2], [9, 2], [10, 2], [11, 2], [12, 2], [13, 2], [14, 2],  //15
+					[0, 3], [1, 3], [2, 3], [3, 3], [4, 3], [5, 3], [6, 3], [7, 3], [8, 3], [9, 3], [10, 3], [11, 3], [12, 3], [14, 3],  //14
+					[0, 4], [1, 4], [2, 4], [3, 4], [4, 4], [5, 4], [6, 4], [7, 4], [8, 4], [9, 4], [10, 4], [11, 4], [12, 4], [13, 4], [14, 4],  //15
+					[0, 5], [1, 5], [2, 5],  [5, 5],  [9, 5], [10, 5], [11, 5], [12, 5], [13, 5], [14, 5],  //10
+				],
+				Endpoint : { "interface": 1, "usage": 0x0001, "usage_page": 0xFF00, "collection": 0x0000 },
+				Battery: true,
+				image: "https://assets.signalrgb.com/devices/brands/asus/keyboards/azoth.png"
+			},
+            "ROG Azoth Extreme":
 			{
 				size: [15, 6],
 				vLeds:[
