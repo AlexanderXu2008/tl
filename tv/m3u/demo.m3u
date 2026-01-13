@@ -1,9 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",猫步走世界
-ttp://www.douzhicloud.site:35455/douyu/648814
+http://www.douzhicloud.site:35455/douyu/648814
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",中华小当家
 http://www.douzhicloud.site:35455/huya/11342413
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",中华小当家2
