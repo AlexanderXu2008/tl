@@ -1,126 +1,143 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",猫步走世界
+#EXTM3U x-tvg-url="https://epg.zbds.top"
+#EXTINF:-1 group-title="直播" tvg-name="猫步走世界" tvg-logo="https://livecdn.zbds.org/logo/猫步走世界.png" epg-url="https://epg.zbds.top",猫步走世界
 http://www.douzhicloud.site:35455/douyu/648814
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",中华小当家
+#EXTINF:-1 group-title="直播" tvg-name="中华小当家" tvg-logo="https://livecdn.zbds.org/logo/中华小当家.png" epg-url="https://epg.zbds.top",中华小当家
+http://www.douzhicloud.site:35455/douyu/997925
+#EXTINF:-1 group-title="直播" tvg-name="中华小当家1" tvg-logo="https://livecdn.zbds.org/logo/中华小当家1.png" epg-url="https://epg.zbds.top",中华小当家1
 http://www.douzhicloud.site:35455/huya/11342413
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",中华小当家2
+#EXTINF:-1 group-title="直播" tvg-name="中华小当家2" tvg-logo="https://livecdn.zbds.org/logo/中华小当家2.png" epg-url="https://epg.zbds.top",中华小当家2
 http://www.douzhicloud.site:35455/huya/30613314
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",中华小当家3
-http://www.douzhicloud.site:35455/huya/30613314
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",名侦探柯南剧场版
+#EXTINF:-1 group-title="直播" tvg-name="中华小当家3" tvg-logo="https://livecdn.zbds.org/logo/中华小当家3.png" epg-url="https://epg.zbds.top",中华小当家3
+http://www.douzhicloud.site:35455/huya/30273533
+#EXTINF:-1 group-title="直播" tvg-name="中华小当家4" tvg-logo="https://livecdn.zbds.org/logo/中华小当家4.png" epg-url="https://epg.zbds.top",中华小当家4
+http://www.douzhicloud.site:35455/douyu/8231658
+#EXTINF:-1 group-title="直播" tvg-name="名侦探柯南剧场版" tvg-logo="https://livecdn.zbds.org/logo/名侦探柯南剧场版.png" epg-url="https://epg.zbds.top",名侦探柯南剧场版
 http://www.douzhicloud.site:35455/huya/30080236
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",名侦探柯南2
+#EXTINF:-1 group-title="直播" tvg-name="名侦探柯南2" tvg-logo="https://livecdn.zbds.org/logo/名侦探柯南2.png" epg-url="https://epg.zbds.top",名侦探柯南2
 http://www.douzhicloud.site:35455/huya/30080148
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",蜡笔小新
-http://www.douzhicloud.site:35455/bilibili/30837590
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="直播",哆啦A梦
+#EXTINF:-1 group-title="直播" tvg-name="名侦探柯南3" tvg-logo="https://livecdn.zbds.org/logo/名侦探柯南3.png" epg-url="https://epg.zbds.top",名侦探柯南3
+http://www.douzhicloud.site:35455/douyu/5354705
+#EXTINF:-1 group-title="直播" tvg-name="蜡笔小新" tvg-logo="https://livecdn.zbds.org/logo/蜡笔小新.png" epg-url="https://epg.zbds.top",蜡笔小新
+http://www.douzhicloud.site:35455/huya/11352970
+#EXTINF:-1 group-title="直播" tvg-name="哆啦A梦" tvg-logo="https://livecdn.zbds.org/logo/哆啦A梦.png" epg-url="https://epg.zbds.top",哆啦A梦
 http://www.douzhicloud.site:35455/huya/11601963
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",斗鱼电影1
-http://live.iill.top/douyu.php?id=4332
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="电影",斗鱼电影2
-http://live.iill.top/douyu.php?id=6140589
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="电影",斗鱼电影3
-http://live.iill.top/douyu.php?id=8770422
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="电影",斗鱼电影4
-http://live.iill.top/douyu.php?id=747764
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="电影",斗鱼电影5
-http://live.iill.top/douyu.php?id=52787
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="电影",斗鱼电影6
-http://live.iill.top/douyu.php?id=36337
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="电影",哈利波特
-http://live.iill.top/douyu.php?id=8814650
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="电影",斗鱼电影8
-http://live.iill.top/douyu.php?id=9651304
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",斗鱼电影9
-http://live.iill.top/douyu.php?id=323876
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",斗鱼电影10
-http://live.iill.top/douyu.php?id=263824
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",斗鱼电影11
-http://live.iill.top/douyu.php?id=96577
-
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",权力的游戏
-http://live.iill.top/douyu.php?id=8945323
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",斗鱼电影12
-http://live.iill.top/douyu.php?id=252802
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",斗鱼电影13
-http://live.iill.top/douyu.php?id=11854896
-
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",欧美大片1
-http://live.iill.top/douyu.php?id=20415
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",欧美大片2
-http://live.iill.top/douyu.php?id=2793084
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="电影",欧美大片3
-http://live.iill.top/douyu.php?id=9249162
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼水冷
-http://live.iill.top/douyu.php?id=1089406
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼装机
-http://live.iill.top/douyu.php?id=652458
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼学习
-http://live.iill.top/douyu.php?id=6173973
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼历史
-http://live.iill.top/douyu.php?id=9385288
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="斗鱼",斗鱼宇宙
-http://live.iill.top/douyu.php?id=9606719
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",鹿鼎记
-http://live.iill.top/huya.php?id=23650774
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",怀逝
-http://live.iill.top/huya.php?id=330679
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",阿斗归来了
-http://live.iill.top/huya.php?id=13303478
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",口袋
-http://live.iill.top/huya.php?id=51106
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",扁豆看电影
-http://live.iill.top/huya.php?id=21059623
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",斌哥漫说
-http://live.iill.top/huya.php?id=21059621
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",阿汤哥
-http://live.iill.top/huya.php?id=21059585
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",好尸游戏
-http://live.iill.top/huya.php?id=22830328
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",红烧狮子头
-http://live.iill.top/huya.php?id=11601978
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",划线百佳
-http://live.iill.top/huya.php?id=392168
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",诸葛亮
-http://live.iill.top/huya.php?id=861098
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",小锦儿
-http://live.iill.top/huya.php?id=813749
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",阿珂
-http://live.iill.top/huya.php?id=569528
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",一诺
-http://live.iill.top/huya.php?id=390653
-#EXTINF:-1 tvg-id="斗鱼" tvg-logo="" group-title="虎牙",孤寂
-http://live.iill.top/huya.php?id=207362
-
-
-
-
-
-#EXTINF:-1 group-title="•游戏赛事",穿越火线
-http://live.iill.top/huya.php?id=660101
-
-#EXTINF:-1 group-title="•游戏赛事",和平精英·手游
-http://live.iill.top/douyu.php?id=999
-
-#EXTINF:-1 group-title="•游戏赛事",梦幻西游·手游
-http://live.iill.top/huya.php?id=9163712
-
-#EXTINF:-1 group-title="•游戏赛事",跑跑卡丁车
-http://live.iill.top/douyu.php?id=7722576
-
-
-#EXTINF:-1 group-title="•游戏赛事",JJ斗地主
-http://live.iill.top/douyu.php?id=488743
-
-
-#EXTINF:-1 group-title="•游戏赛事",QQ飞车·手游
-http://live.iill.top/bilibili.php?id=21743919
-
-
-#EXTINF:-1 group-title="•游戏赛事",CF·手游
-http://live.iill.top/douyu.php?id=605964
-
-#EXTINF:-1 group-title="•游戏赛事",王者荣耀
-http://live.iill.top/douyu.php?id=1863767
-#EXTM3U
+#EXTINF:-1 group-title="直播" tvg-name="小丸子" tvg-logo="https://livecdn.zbds.org/logo/小丸子.png" epg-url="https://epg.zbds.top",小丸子
+http://www.douzhicloud.site:35455/huya/11342394
+#EXTINF:-1 group-title="电影" tvg-name="贝爷" tvg-logo="https://livecdn.zbds.org/logo/贝爷.png" epg-url="https://epg.zbds.top",贝爷
+http://www.douzhicloud.site:35455/douyu/4332
+#EXTINF:-1 group-title="电影" tvg-name="女神金" tvg-logo="https://livecdn.zbds.org/logo/女神金.png" epg-url="https://epg.zbds.top",女神金
+http://www.douzhicloud.site:35455/douyu/747764
+#EXTINF:-1 group-title="电影" tvg-name="武侠经典" tvg-logo="https://livecdn.zbds.org/logo/武侠经典.png" epg-url="https://epg.zbds.top",武侠经典
+http://www.douzhicloud.site:35455/douyu/2793084
+#EXTINF:-1 group-title="电影" tvg-name="经典重刷" tvg-logo="https://livecdn.zbds.org/logo/经典重刷.png" epg-url="https://epg.zbds.top",经典重刷
+http://www.douzhicloud.site:35455/douyu/434971
+#EXTINF:-1 group-title="电影" tvg-name="动漫点播1" tvg-logo="https://livecdn.zbds.org/logo/动漫点播1.png" epg-url="https://epg.zbds.top",动漫点播1
+http://www.douzhicloud.site:35455/douyu/1487654
+#EXTINF:-1 group-title="电影" tvg-name="开心锤锤" tvg-logo="https://livecdn.zbds.org/logo/开心锤锤.png" epg-url="https://epg.zbds.top",开心锤锤
+http://www.douzhicloud.site:35455/douyu/9018297
+#EXTINF:-1 group-title="电影" tvg-name="动漫点播2" tvg-logo="https://livecdn.zbds.org/logo/动漫点播2.png" epg-url="https://epg.zbds.top",动漫点播2
+http://www.douzhicloud.site:35455/douyu/1174353
+#EXTINF:-1 group-title="电影" tvg-name="动漫点播3" tvg-logo="https://livecdn.zbds.org/logo/动漫点播3.png" epg-url="https://epg.zbds.top",动漫点播3
+http://www.douzhicloud.site:35455/douyu/4373285
+#EXTINF:-1 group-title="电影" tvg-name="动漫点播4" tvg-logo="https://livecdn.zbds.org/logo/动漫点播4.png" epg-url="https://epg.zbds.top",动漫点播4
+http://www.douzhicloud.site:35455/douyu/1218414
+#EXTINF:-1 group-title="电影" tvg-name="拳叔" tvg-logo="https://livecdn.zbds.org/logo/拳叔.png" epg-url="https://epg.zbds.top",拳叔
+http://www.douzhicloud.site:35455/douyu/9484105
+#EXTINF:-1 group-title="电影" tvg-name="太阳系" tvg-logo="https://livecdn.zbds.org/logo/太阳系.png" epg-url="https://epg.zbds.top",太阳系
+http://www.douzhicloud.site:35455/douyu/9412981
+#EXTINF:-1 group-title="电影" tvg-name="恐怖游戏" tvg-logo="https://livecdn.zbds.org/logo/恐怖游戏.png" epg-url="https://epg.zbds.top",恐怖游戏
+http://www.douzhicloud.site:35455/douyu/10401481
+#EXTINF:-1 group-title="电影" tvg-name="宇宙科幻合集" tvg-logo="https://livecdn.zbds.org/logo/宇宙科幻合集.png" epg-url="https://epg.zbds.top",宇宙科幻合集
+http://www.douzhicloud.site:35455/huya/11342428
+#EXTINF:-1 group-title="电影" tvg-name="漫威" tvg-logo="https://livecdn.zbds.org/logo/漫威.png" epg-url="https://epg.zbds.top",漫威
+http://www.douzhicloud.site:35455/huya/30526458
+#EXTINF:-1 group-title="电影" tvg-name="杰森" tvg-logo="https://livecdn.zbds.org/logo/杰森.png" epg-url="https://epg.zbds.top",杰森
+http://www.douzhicloud.site:35455/huya/21059588
+#EXTINF:-1 group-title="电影" tvg-name="哈利波特" tvg-logo="https://livecdn.zbds.org/logo/哈利波特.png" epg-url="https://epg.zbds.top",哈利波特
+http://www.douzhicloud.site:35455/huya/29982669
+#EXTINF:-1 group-title="电影" tvg-name="动作大片" tvg-logo="https://livecdn.zbds.org/logo/动作大片.png" epg-url="https://epg.zbds.top",动作大片
+http://www.douzhicloud.site:35455/huya/23728651
+#EXTINF:-1 group-title="电影" tvg-name="诺兰电影" tvg-logo="https://livecdn.zbds.org/logo/诺兰电影.png" epg-url="https://epg.zbds.top",诺兰电影
+http://www.douzhicloud.site:35455/huya/30080257
+#EXTINF:-1 group-title="电影" tvg-name="动画电影" tvg-logo="https://livecdn.zbds.org/logo/动画电影.png" epg-url="https://epg.zbds.top",动画电影
+http://www.douzhicloud.site:35455/huya/30080256
+#EXTINF:-1 group-title="电影" tvg-name="科幻电影" tvg-logo="https://livecdn.zbds.org/logo/科幻电影.png" epg-url="https://epg.zbds.top",科幻电影
+http://www.douzhicloud.site:35455/huya/26355781
+#EXTINF:-1 group-title="电影" tvg-name="科幻电影2" tvg-logo="https://livecdn.zbds.org/logo/科幻电影2.png" epg-url="https://epg.zbds.top",科幻电影2
+http://www.douzhicloud.site:35455/huya/23746486
+#EXTINF:-1 group-title="电影" tvg-name="硬汉电影" tvg-logo="https://livecdn.zbds.org/logo/硬汉电影.png" epg-url="https://epg.zbds.top",硬汉电影
+http://www.douzhicloud.site:35455/huya/29465873
+#EXTINF:-1 group-title="电影" tvg-name="犯罪电影" tvg-logo="https://livecdn.zbds.org/logo/犯罪电影.png" epg-url="https://epg.zbds.top",犯罪电影
+http://www.douzhicloud.site:35455/huya/11352908
+#EXTINF:-1 group-title="电影" tvg-name="豆瓣高分电影" tvg-logo="https://livecdn.zbds.org/logo/豆瓣高分电影.png" epg-url="https://epg.zbds.top",豆瓣高分电影
+http://www.douzhicloud.site:35455/huya/23902225
+#EXTINF:-1 group-title="斗鱼" tvg-name="斗鱼水冷" tvg-logo="https://livecdn.zbds.org/logo/斗鱼水冷.png" epg-url="https://epg.zbds.top",斗鱼水冷
+http://www.douzhicloud.site:35455/douyu/1089406
+#EXTINF:-1 group-title="斗鱼" tvg-name="斗鱼装机" tvg-logo="https://livecdn.zbds.org/logo/斗鱼装机.png" epg-url="https://epg.zbds.top",斗鱼装机
+http://www.douzhicloud.site:35455/douyu/652458
+#EXTINF:-1 group-title="斗鱼" tvg-name="斗鱼学习" tvg-logo="https://livecdn.zbds.org/logo/斗鱼学习.png" epg-url="https://epg.zbds.top",斗鱼学习
+http://www.douzhicloud.site:35455/douyu/6173973
+#EXTINF:-1 group-title="斗鱼" tvg-name="斗鱼历史" tvg-logo="https://livecdn.zbds.org/logo/斗鱼历史.png" epg-url="https://epg.zbds.top",斗鱼历史
+http://www.douzhicloud.site:35455/douyu/9385288
+#EXTINF:-1 group-title="斗鱼" tvg-name="斗鱼宇宙" tvg-logo="https://livecdn.zbds.org/logo/斗鱼宇宙.png" epg-url="https://epg.zbds.top",斗鱼宇宙
+http://www.douzhicloud.site:35455/douyu/9606719
+#EXTINF:-1 group-title="虎牙" tvg-name="鹿鼎记" tvg-logo="https://livecdn.zbds.org/logo/鹿鼎记.png" epg-url="https://epg.zbds.top",鹿鼎记
+http://www.douzhicloud.site:35455/huya/23650774
+#EXTINF:-1 group-title="虎牙" tvg-name="怀逝" tvg-logo="https://livecdn.zbds.org/logo/怀逝.png" epg-url="https://epg.zbds.top",怀逝
+http://www.douzhicloud.site:35455/huya/330679
+#EXTINF:-1 group-title="虎牙" tvg-name="阿斗归来了" tvg-logo="https://livecdn.zbds.org/logo/阿斗归来了.png" epg-url="https://epg.zbds.top",阿斗归来了
+http://www.douzhicloud.site:35455/huya/13303478
+#EXTINF:-1 group-title="虎牙" tvg-name="狗哥吃火锅" tvg-logo="https://livecdn.zbds.org/logo/狗哥吃火锅.png" epg-url="https://epg.zbds.top",狗哥吃火锅
+http://www.douzhicloud.site:35455/huya/17269326
+#EXTINF:-1 group-title="虎牙" tvg-name="狗哥吃火锅2" tvg-logo="https://livecdn.zbds.org/logo/狗哥吃火锅2.png" epg-url="https://epg.zbds.top",狗哥吃火锅2
+http://www.douzhicloud.site:35455/huya/21059624
+#EXTINF:-1 group-title="虎牙" tvg-name="非凡武林" tvg-logo="https://livecdn.zbds.org/logo/非凡武林.png" epg-url="https://epg.zbds.top",非凡武林
+http://www.douzhicloud.site:35455/huya/21674665
+#EXTINF:-1 group-title="虎牙" tvg-name="口袋" tvg-logo="https://livecdn.zbds.org/logo/口袋.png" epg-url="https://epg.zbds.top",口袋
+http://www.douzhicloud.site:35455/huya/51106
+#EXTINF:-1 group-title="虎牙" tvg-name="赵一" tvg-logo="https://livecdn.zbds.org/logo/赵一.png" epg-url="https://epg.zbds.top",赵一
+http://www.douzhicloud.site:35455/huya/569528
+#EXTINF:-1 group-title="虎牙" tvg-name="扁豆看电影" tvg-logo="https://livecdn.zbds.org/logo/扁豆看电影.png" epg-url="https://epg.zbds.top",扁豆看电影
+http://www.douzhicloud.site:35455/huya/16028551
+#EXTINF:-1 group-title="虎牙" tvg-name="扁豆看电影2" tvg-logo="https://livecdn.zbds.org/logo/扁豆看电影2.png" epg-url="https://epg.zbds.top",扁豆看电影2
+http://www.douzhicloud.site:35455/huya/21059623
+#EXTINF:-1 group-title="虎牙" tvg-name="斌哥漫说" tvg-logo="https://livecdn.zbds.org/logo/斌哥漫说.png" epg-url="https://epg.zbds.top",斌哥漫说
+http://www.douzhicloud.site:35455/huya/18632116
+#EXTINF:-1 group-title="虎牙" tvg-name="斌哥漫说2" tvg-logo="https://livecdn.zbds.org/logo/斌哥漫说2.png" epg-url="https://epg.zbds.top",斌哥漫说2
+http://www.douzhicloud.site:35455/huya/21059621
+#EXTINF:-1 group-title="虎牙" tvg-name="阿汤哥" tvg-logo="https://livecdn.zbds.org/logo/阿汤哥.png" epg-url="https://epg.zbds.top",阿汤哥
+http://www.douzhicloud.site:35455/huya/21059585
+#EXTINF:-1 group-title="虎牙" tvg-name="好尸游戏" tvg-logo="https://livecdn.zbds.org/logo/好尸游戏.png" epg-url="https://epg.zbds.top",好尸游戏
+http://www.douzhicloud.site:35455/huya/22830328
+#EXTINF:-1 group-title="虎牙" tvg-name="红烧狮子头" tvg-logo="https://livecdn.zbds.org/logo/红烧狮子头.png" epg-url="https://epg.zbds.top",红烧狮子头
+http://www.douzhicloud.site:35455/huya/11601978
+#EXTINF:-1 group-title="虎牙" tvg-name="划线百佳" tvg-logo="https://livecdn.zbds.org/logo/划线百佳.png" epg-url="https://epg.zbds.top",划线百佳
+http://www.douzhicloud.site:35455/huya/32588
+#EXTINF:-1 group-title="虎牙" tvg-name="诸葛亮" tvg-logo="https://livecdn.zbds.org/logo/诸葛亮.png" epg-url="https://epg.zbds.top",诸葛亮
+http://www.douzhicloud.site:35455/huya/861098
+#EXTINF:-1 group-title="虎牙" tvg-name="小锦儿" tvg-logo="https://livecdn.zbds.org/logo/小锦儿.png" epg-url="https://epg.zbds.top",小锦儿
+http://www.douzhicloud.site:35455/huya/813749
+#EXTINF:-1 group-title="虎牙" tvg-name="阿珂" tvg-logo="https://livecdn.zbds.org/logo/阿珂.png" epg-url="https://epg.zbds.top",阿珂
+http://www.douzhicloud.site:35455/huya/569528
+#EXTINF:-1 group-title="虎牙" tvg-name="一诺" tvg-logo="https://livecdn.zbds.org/logo/一诺.png" epg-url="https://epg.zbds.top",一诺
+http://www.douzhicloud.site:35455/huya/10147
+#EXTINF:-1 group-title="虎牙" tvg-name="虎牙斯诺克" tvg-logo="https://livecdn.zbds.org/logo/虎牙斯诺克.png" epg-url="https://epg.zbds.top",虎牙斯诺克
+http://www.douzhicloud.site:35455/huya/880214
+#EXTINF:-1 group-title="虎牙" tvg-name="孤寂" tvg-logo="https://livecdn.zbds.org/logo/孤寂.png" epg-url="https://epg.zbds.top",孤寂
+http://www.douzhicloud.site:35455/huya/207362
+#EXTINF:-1 group-title="•游戏赛事" tvg-name="穿越火线" tvg-logo="https://livecdn.zbds.org/logo/穿越火线.png" epg-url="https://epg.zbds.top",穿越火线
+http://www.douzhicloud.site:35455/huya/660101
+#EXTINF:-1 group-title="•游戏赛事" tvg-name="和平精英·手游" tvg-logo="https://livecdn.zbds.org/logo/和平精英·手游.png" epg-url="https://epg.zbds.top",和平精英·手游
+http://www.douzhicloud.site:35455/douyu/999
+#EXTINF:-1 group-title="•游戏赛事" tvg-name="梦幻西游·手游" tvg-logo="https://livecdn.zbds.org/logo/梦幻西游·手游.png" epg-url="https://epg.zbds.top",梦幻西游·手游
+http://www.douzhicloud.site:35455/huya/9163712
+#EXTINF:-1 group-title="•游戏赛事" tvg-name="跑跑卡丁车" tvg-logo="https://livecdn.zbds.org/logo/跑跑卡丁车.png" epg-url="https://epg.zbds.top",跑跑卡丁车
+http://www.douzhicloud.site:35455/douyu/7722576
+#EXTINF:-1 group-title="•游戏赛事" tvg-name="JJ斗地主" tvg-logo="https://livecdn.zbds.org/logo/JJ斗地主.png" epg-url="https://epg.zbds.top",JJ斗地主
+http://www.douzhicloud.site:35455/douyu/488743
+#EXTINF:-1 group-title="•游戏赛事" tvg-name="QQ飞车·手游" tvg-logo="https://livecdn.zbds.org/logo/QQ飞车·手游.png" epg-url="https://epg.zbds.top",QQ飞车·手游
+http://www.douzhicloud.site:35455/bilibili/21743919
+#EXTINF:-1 group-title="•游戏赛事" tvg-name="CF·手游" tvg-logo="https://livecdn.zbds.org/logo/CF·手游.png" epg-url="https://epg.zbds.top",CF·手游
+http://www.douzhicloud.site:35455/douyu/605964
+#EXTINF:-1 group-title="•游戏赛事" tvg-name="王者荣耀" tvg-logo="https://livecdn.zbds.org/logo/王者荣耀.png" epg-url="https://epg.zbds.top",王者荣耀
+http://www.douzhicloud.site:35455/douyu/1863767
