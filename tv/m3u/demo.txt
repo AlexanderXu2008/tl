@@ -10,6 +10,7 @@
 名侦探柯南3,http://www.douzhicloud.site:35455/douyu/5354705
 蜡笔小新,http://www.douzhicloud.site:35455/huya/11352970
 哆啦A梦,http://www.douzhicloud.site:35455/huya/11601963
+小丸子,http://www.douzhicloud.site:35455/huya/11342394
 
 电影,#genre#
 贝爷,http://www.douzhicloud.site:35455/douyu/4332
@@ -25,6 +26,17 @@
 太阳系,http://www.douzhicloud.site:35455/douyu/9412981
 恐怖游戏,http://www.douzhicloud.site:35455/douyu/10401481
 宇宙科幻合集,http://www.douzhicloud.site:35455/huya/11342428
+漫威,http://www.douzhicloud.site:35455/huya/30526458
+杰森,http://www.douzhicloud.site:35455/huya/21059588
+哈利波特,http://www.douzhicloud.site:35455/huya/29982669
+动作大片,http://www.douzhicloud.site:35455/huya/23728651
+诺兰电影,http://www.douzhicloud.site:35455/huya/30080257
+动画电影,http://www.douzhicloud.site:35455/huya/30080256
+科幻电影,http://www.douzhicloud.site:35455/huya/26355781
+科幻电影2,http://www.douzhicloud.site:35455/huya/23746486
+硬汉电影,http://www.douzhicloud.site:35455/huya/29465873
+犯罪电影,http://www.douzhicloud.site:35455/huya/11352908
+豆瓣高分电影,http://www.douzhicloud.site:35455/huya/23902225
 
 
 
