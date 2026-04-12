@@ -52,7 +52,7 @@
 
 虎牙,#genre#
 鹿鼎记虎牙,https://live.ottiptv.cc/huya/23650774
-鹿鼎记虎牙,http://cdn.jdshipin.com:8880/huya.php?id=23650774
+鹿鼎记虎牙2,http://cdn.jdshipin.com:8880/huya.php?id=23650774
 怀逝虎牙,https://live.ottiptv.cc/huya/330679
 阿斗归来了虎牙,https://live.ottiptv.cc/huya/13303478
 狗哥吃火锅虎牙,https://live.ottiptv.cc/huya/17269326
